@@ -1,21 +1,24 @@
 ---
 title: "About ENTER Mölndal"
-description: "Demonstration of Hugo content management approach for subsection
-pages and associated breadcrumb menu."
+description: "Credits for the work"
 date: 2018-03-07T02:16:58-08:00
 draft: false
 layout: subsection
-url: "/about/"
+url: "/en/about/" 
+aliases:
+    - /about/
 ---
 
-ENTER Mölndal is the result of the project _Gestaltade platser, medskapande historia i närmiljön_ (Envisioned places, co-creation in local neighbourhoods) run by [Mölndals stadsmuseum](http://museum.molndal.se) in collaboration with [RISE Interactive](https://www.tii.se/) andh [Marika Hedemyr Projects](http://www.marikahedemyr.com/). The project has been realized through generous support from [The Torsten Söderberghs Foundation](http://www.torstensoderbergsstiftelse.se/).
+ENTER Mölndal is the result of the project _Gestaltade platser, medskapande historia i närmiljön_ (Envisioned places, co-creation in local neighbourhoods) run by [Mölndals stadsmuseum](http://museum.molndal.se) in collaboration with [RISE Interactive](https://www.tii.se/) andh [Marika Hedemyr Projects](http://www.marikahedemyr.com/). The project has been realized through generous support from [The Torsten Söderbergh Foundation](http://www.torstensoderbergsstiftelse.se/).
 
 ### Credits
 **Concept, script, director:** Marika Hedemyr  
 **Creative Technologist:** Jacob Michelsen, RISE Interactive  
-**Sound:** Helena Persson  
+**Sound - Kvarnbyn:** Helena Persson  
+**Sound & Music - Tulebosjön:** Fredrik Jonasson  
 **Graphic Design:** Claes Pettersson  
-**Film:** Arkivfilm från Mölndals Stadsarkiv/Archival footage from Mölndals Stadsarkiv, Thomas Erdegard Drönartjänst, Marika Hedemyr  
+**Technical Artist - Tulebosjön:** Andreas Jörgensen  
+**Film:** Archival footage from Mölndals Stadsarkiv, Thomas Erdegard Drönartjänst, Marika Hedemyr  
 **Film Editing:** Pontus Hjortén  
 **Voices:** Siri Hanbert, Marika Hedemyr, Linda Hellström, Anna Fallström, Mikael Fjelldal, Franck Olofsson, Jan Sandberg, Miranda Törnqvist, Olivia Törnqvist  
 

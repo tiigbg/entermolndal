@@ -6,26 +6,17 @@ title: enter mölndal
 
 [![Promotionbild ENTER](/img/enter-promo.jpg)](https://entermolndal.se/kvarnbyn)
 
+#### **[ENTER Mölndal – Kvarnbyn](kvarnbyninfo/)**
+
+#### **[ENTER Mölndal – Tulebosjön](tulebosjon/)**
+
 <!-- ### ENTER Mölndal är en interaktiv upplevelse i din mobiltelefon -->
+ENTER Mölndal är en platsspecifik interaktiv upplevelse – genom din mobiltelefon!
 
-#### 1. Ta dig till startplatsen i Kvarnbyn, Mölndal: bänkarna vid lyktstolpen mitt emot Kråkans Krog<br />[Visa på karta](https://goo.gl/maps/yJWp2qkVVk12)
-#### 2. Läs tips & info nedan
-#### 3. Ta på dig hörlurar, tryck på länken nedan och följ instruktionerna
-#### [ENTER Mölndal - Kvarnbyn ➔](https://entermolndal.se/kvarnbyn)
+Första platsen du får möta är [Kvarnbyn](kvarnbyn/), där forsen har gett människor möjlighet att leva, överleva, arbeta och skapa i mer än 600 år. 
 
----
-#### **Tips och info innan du startar**
-**Språk:** Svenska, Engelska.
+Den 22 september lanserar vi nästa upplevelse: [ENTER Mölndal – Tulebosjön](tulebosjon/) – en app för familj och barn från 9 år, som berättar om de unika forntidsfynden vid Tulebosjön.
 
-**Tidsåtgång:** Hela upplevelsen tar ca 40 minuter. Du väljer själv hur länge du vill delta.
 
-**Du behöver:**  En smartphone med tillgång till internet och hörlurar. På iPhone använd webbläsaren Safari, på Android använd webbläsarna Chrome eller Firefox. Hörlurar finns att låna på Mölndals Stadsmuseum under öppettiderna.
-
-**Om du har en iPhone SE:** Tryck på Dela-knappen i din webbläsare och välj "Lägg till på hemskärmen" och fortsätt sedan från den nya ikonen.
-
-**Plats:** Turen startar i den lilla parken nära Forsebron, vid korsningen Götaforsliden – Norra Forsåkersgatan i Mölndal. Den går över Forsebron till Gamla torget och tillbaka, en sträcka på ca 500 m. Den interaktiva upplevelsen är webbaserad och gjord för att upplevas på den verkliga platsen - Kvarnbyn.
-[Visa platsen på en karta.](https://goo.gl/maps/yJWp2qkVVk12)
-
-**Wifi:** Kommer att finnas i framtiden. Tills dess: Använd ditt eget abonnemang och stäng av wifi på din telefon (för att inte råka komma in på Mölndals Stads wifi som i dagsläget är så svagt att turen stannar).
-
-**Förbrukning:** Ca 170 MB datatrafik, ungefär 15% av batteriets laddning, och knappt 0,5 dl vatten.
+#### **Bakgrund**
+ENTER Mölndal har utvecklats av [Mölndals stadsmuseum](https://museum.molndal.se/) i samarbete med [RISE Interactive](https://www.tii.se/) och [Marika Hedemyr Projects](http://www.marikahedemyr.com/). Projektet har förverkligats med generöst stöd av [Torsten Söderbergs Stiftelse](http://www.torstensoderbergsstiftelse.se/). [Läs mer här.](om/)

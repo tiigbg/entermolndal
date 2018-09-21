@@ -11,8 +11,10 @@ ENTER Mölndal är resultatet av projektet _Gestaltade platser, medskapande hist
 ### Credits
 **Koncept, manus, regi:** Marika Hedemyr  
 **Tekniskt koncept, programmering:** Jacob Michelsen, RISE Interactive  
-**Ljud:** Helena Persson  
+**Ljud - Kvarnbyn:** Helena Persson  
+**Ljud & Musik - Tulebosjön:** Fredrik Jonasson  
 **Grafisk form:** Claes Pettersson  
+**Technical Artist - Tulebosjön:** Andreas Jörgensen  
 **Film:** Arkivfilm från Mölndals Stadsarkiv/Archival footage from Mölndals Stadsarkiv, Thomas Erdegard Drönartjänst, Marika Hedemyr  
 **Filmklipp:** Pontus Hjortén  
 **Röster:** Siri Hanbert, Marika Hedemyr, Linda Hellström, Anna Fallström, Mikael Fjelldal, Franck Olofsson, Jan Sandberg, Miranda Törnqvist, Olivia Törnqvist  
@@ -21,7 +23,7 @@ ENTER Mölndal är resultatet av projektet _Gestaltade platser, medskapande hist
 
 **Programmeringsassistent:** Emil Berzén, Jakob Kallin  
 **Ljudtekniker:** Anton Hedlund  
-**360-bildredigering:** Loan Stekla
+**360-bildredigering - Kvarnbyn:** Loan Stekla
 
 **Producerad av:** Mölndals Stadsmuseum i samarbete med RISE Interactive och Marika Hedemyr Projects
 /Museum of Mölndal in collaboration with RISE Interactive and Marika Hedemyr Projects

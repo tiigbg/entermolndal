@@ -79,10 +79,18 @@ languages:
         weight: 1
         menu:
             sectionmenu:
+                - name: "Kvarnbyn"
+                  url: "/kvarnbyninfo/"
+                  identifier: "kvarnbyn"
+                  weight: 10
+                - name: "Tulebosjön"
+                  url: "/tulebosjon/"
+                  identifier: "tulebosjon"
+                  weight: 20
                 - name: "Om"
                   url: "/om/"
                   identifier: "om"
-                  weight: 10
+                  weight: 30
 
     en:
         languageName: "English"
@@ -90,14 +98,22 @@ languages:
         params:
             logotype: 'ENTER Mölndal' 
             fullname: "Experience the place through your mobile phone"
-            description: "In ENTER Mölndal – Kvarnbyn you open windows to history through your mobile phone. You will end up right in the flow of change and experience Kvarnbyn, the miller's village, through voices and stories through the ages."
+            description: "In ENTER Mölndal you open windows to history through your mobile phone. You will end up right in the flow of change and experience Kvarnbyn and Lake Tulebo through voices and stories through the ages."
             footer: 'A project by <a href="https://museum.molndal.se/">Mölndals stadsmuseum</a> in collaboration with <a href="https://www.tii.se/">RISE Interactive</a> and <a href="http://www.marikahedemyr.com/">Marika Hedemyr Projects</a>'
         menu:
             sectionmenu:
+                - name: "Kvarnbyn"
+                  url: "/kvarnbyninfo/"
+                  identifier: "kvarnbyn"
+                  weight: 10
+                - name: "Tulebosjön"
+                  url: "/tulebosjon/"
+                  identifier: "tulebosjon"
+                  weight: 20
                 - name: "About"
                   url: "/about/"
                   identifier: "about"
-                  weight: 10
+                  weight: 30
 
 
 
