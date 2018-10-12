@@ -13,7 +13,7 @@ url: "/en/tulebosjon"
 **The app released Saturday, September 22!**
 
 [![Download on App Store](/img/appstore_eng.png)](https://itunes.apple.com/us/app/enter-mölndal-tulebosjön/id1435578995)
-![Download on Play Store](/img/playstore_eng.png)
+[![Download on Play Store](/img/playstore_eng.png)](https://play.google.com/store/apps/details?id=se.ri.enter.tulebosjon)
 
 Everywhere, people have stayed and lived before us. At Lake Tulebo, archaeologists have found exciting findings in the soil. During the Bronze Age, there were fires burning in long lines along the ridge, above what is now the beach.
 

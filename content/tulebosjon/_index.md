@@ -13,7 +13,7 @@ url: "/tulebosjon/"
 **Appen släpps lördag den 22 september!**
 
 [![Ladda ner på App Store](/img/appstore_eng.png)](https://itunes.apple.com/us/app/enter-mölndal-tulebosjön/id1435578995)
-![Ladda ner på Play Store](/img/playstore_eng.png)
+[![Ladda ner på Play Store](/img/playstore_eng.png)](https://play.google.com/store/apps/details?id=se.ri.enter.tulebosjon)
 
 Överallt har människor bott och levt innan oss. Vid Tulebosjön har arkeologer hittat spännande spår i jorden. Under bronsåldern fanns här eldar som brann i långa rader längs åsen, ovanför det som nu är badplatsen.
 
