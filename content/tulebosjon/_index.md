@@ -10,8 +10,6 @@ url: "/tulebosjon/"
 
 ”ENTER Mölndal – Tulebosjön” är en app och en platsspecifik upplevelse för familj och barn från 9 år, som berättar om den unika forntidshistorien vid Tulebosjön.
 
-**Appen släpps lördag den 22 september!**
-
 [![Ladda ner på App Store](/img/appstore_eng.png)](https://itunes.apple.com/us/app/enter-mölndal-tulebosjön/id1435578995)
 [![Ladda ner på Play Store](/img/playstore_eng.png)](https://play.google.com/store/apps/details?id=se.ri.enter.tulebosjon)
 
