@@ -8,6 +8,7 @@ url: "/tulebosjon/"
 ---
 ![Promotionbild ENTER](/img/enter-tulebosjon-promo.jpg)
 
+{{< whiteblock >}}
 ”ENTER Mölndal – Tulebosjön” är en app och en platsspecifik upplevelse för familj och barn från 9 år, som berättar om den unika forntidshistorien vid Tulebosjön.
 
 [![Ladda ner på App Store](/img/appstore_eng.png)](https://itunes.apple.com/us/app/enter-mölndal-tulebosjön/id1435578995)
@@ -29,3 +30,4 @@ Ladda ner appen när du är uppkopplad mot WiFi. När den är installerad i din 
 **Startplats:** [Tulebosjöns badplats](https://www.molndal.se/startsida/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/badplatser/tulebosjon.html) i Kållered, vid bänkarna intill stranden.
 
 **Längd:** Promenaden tar 20-30 minuter beroende på hur länge du stannar på varje ställe. Totalt är det 500 meter att gå.
+{{< /whiteblock >}}

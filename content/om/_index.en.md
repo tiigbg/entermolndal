@@ -4,11 +4,12 @@ description: "Credits for the work"
 date: 2018-03-07T02:16:58-08:00
 draft: false
 layout: subsection
+bg: "tulebo"
 url: "/en/about/" 
 aliases:
     - /about/
 ---
-
+{{< whiteblock >}}
 ENTER Mölndal is the result of the project _Gestaltade platser, medskapande historia i närmiljön_ (Envisioned places, co-creation in local neighbourhoods) run by [Mölndals stadsmuseum](http://museum.molndal.se) in collaboration with [RISE Interactive](https://www.tii.se/) andh [Marika Hedemyr Projects](http://www.marikahedemyr.com/). The project has been realized through generous support from [The Torsten Söderbergh Foundation](http://www.torstensoderbergsstiftelse.se/).
 
 ### Credits
@@ -39,3 +40,5 @@ ENTER Mölndal is the result of the project _Gestaltade platser, medskapande his
 **Paintings and Drawings:** Allart van Ewedingen, Georg Andersson, Gunnar Romdahl, Jim Berggren, Stig Allan Agroth, Ulf Wrangö, Ludvig Messman, Mölndala Fastighets AB, Per-Göran Hillinge, Aktiebrev från Papyrus 1870
 
 **Photos:** Museum of Mölndal, Föreningsarkivet i Sydvästra Götaland, Anders Asp, Tobias Dahlin, Camilla Eliasson 
+
+{{< /whiteblock >}}

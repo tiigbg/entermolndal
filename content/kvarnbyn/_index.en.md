@@ -8,6 +8,7 @@ url: "/en/kvarnbyninfo"
 ---
 
 [![Promotional image ENTER](/img/enter-promo.jpg)](https://entermolndal.se/kvarnbyn)
+{{< whiteblock >}}
 
 #### 1. Get to the starting spot in Kvarnbyn, Mölndal: the benches next to the lamp post opposite Kråkans Krog<br />[Show on map](https://goo.gl/maps/yJWp2qkVVk12)
 #### 2. Read tips & info below
@@ -16,15 +17,21 @@ url: "/en/kvarnbyninfo"
 
 ---
 #### **Tips and info before starting**
+**You need to be on location!** 
+The walk starts in the small park at the intersection Götaforsliden – Norra Forsåkersgatan in Mölndal. It will take you to the Old Square and back, a distance of about 500 m. [Show the location on a map.](https://goo.gl/maps/yJWp2qkVVk12)
+
 **Language:** Swedish, English.
 
 **Time:** The whole tour lasts for 40 minutes. You can choose how much of it you take.
-You need: A smartphone with internet access and headphones. On iPhone, use the Safari web browser, on Android use the Chrome or Firefox browsers. You can borrow headphones at Mölndals Stadsmuseum during opening hours.
-If you have an iPhone SE: Press the Share button in your browser and select "Add to Home Screen," and then proceed from the new icon.
 
-**Location:** The tour starts in the small park next to Forsebron, at the crossing Götaforsliden - Norra Forsåkersgatan in Mölndal. It takes you to the Old Square and back, a distance of about 500 m. The interactive experience is web-based and made to be experienced at the real place - Kvarnbyn. 
-[Show the location on a map.](https://goo.gl/maps/yJWp2qkVVk12)
+**You need:** 1) A smartphone 2) with internet access 3) headphones (the museum lends out headphones during opening hours) 
 
-**Wifi:** Will be available in the future. Until then: Use your own data plan and disable wifi at your phone (in order not to enter Mölndal's City’s wifi, which currently is so weak that your tour will stop).
+**The experience is on the web!**
+**iPhone:** use the Safari web browser.
+**Android:** use the Chrome or Firefox web browser.
+**Wifi: Is not stable here.** Please turn off the phone's wifi.
 
-**Consumption:** Approx. 170 MB of data traffic, about 15% of battery charge, and barely 50 ml of water.
+**If you have an iPhone SE:** Press the Share-button in Safari and select "Add to Home Screen". Then proceed from the new icon.
+
+**Consumption:** Approx. 170 MB of data traffic, 15% of battery charge, 50 ml of water.
+{{< /whiteblock >}}

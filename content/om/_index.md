@@ -6,6 +6,7 @@ draft: false
 layout: subsection
 url: "/om/"
 ---
+{{< whiteblock >}}
 ENTER Mölndal är resultatet av projektet _Gestaltade platser, medskapande historia i närmiljön_ som drivs av [Mölndals stadsmuseum](http://museum.molndal.se) i samarbete med [RISE Interactive](https://www.tii.se/) och [Marika Hedemyr Projects](http://www.marikahedemyr.com/). Projektet har förverkligats med generöst stöd av [Torsten Söderberghs Stiftelse](http://www.torstensoderbergsstiftelse.se/).
 
 ### Credits
@@ -36,3 +37,5 @@ ENTER Mölndal är resultatet av projektet _Gestaltade platser, medskapande hist
 **Tavlor och teckningar:** Allart van Ewedingen, Georg Andersson, Gunnar Romdahl, Jim Berggren, Stig Allan Agroth, Ulf Wrangö, Ludvig Messman, Mölndala Fastighets AB, Per-Göran Hillinge, Aktiebrev från Papyrus 1870
 
 **Foton:** Mölndals Stadsmuseum, Föreningsarkivet i Sydvästra Götaland, Anders Asp, Tobias Dahlin, Camilla Eliasson 
+
+{{< /whiteblock >}}

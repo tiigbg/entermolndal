@@ -7,7 +7,7 @@ layout: projectpage
 url: "/kvarnbyninfo/"
 ---
 [![Promotionbild ENTER](/img/enter-promo.jpg)](https://entermolndal.se/kvarnbyn)
-
+{{< whiteblock >}}
 <!-- ### ENTER Mölndal är en interaktiv upplevelse i din mobiltelefon -->
 
 #### 1. Ta dig till startplatsen i Kvarnbyn, Mölndal: bänkarna vid lyktstolpen mitt emot Kråkans Krog<br />[Visa på karta](https://goo.gl/maps/yJWp2qkVVk12)
@@ -17,17 +17,21 @@ url: "/kvarnbyninfo/"
 
 ---
 #### **Tips och info innan du startar**
+**Du behöver vara på plats!** 
+Turen startar i den lilla parken vid korsningen Götaforsliden – Norra Forsåkersgatan i Mölndal. Den går till Gamla torget och tillbaka, en sträcka på ca 500 m. [Visa platsen på en karta.](https://goo.gl/maps/yJWp2qkVVk12)
+
 **Språk:** Svenska, Engelska.
 
-**Tidsåtgång:** Hela upplevelsen tar ca 40 minuter. Du väljer själv hur länge du vill delta.
+**Tidsåtgång:** Ca 40 minuter. Du väljer själv hur länge du vill delta.
 
-**Du behöver:**  En smartphone med tillgång till internet och hörlurar. På iPhone använd webbläsaren Safari, på Android använd webbläsarna Chrome eller Firefox. Hörlurar finns att låna på Mölndals Stadsmuseum under öppettiderna.
+**Du behöver:**  1) En smartphone 2) med tillgång till Internet 3) hörlurar (museet lånar ut hörlurar under öppettiderna) 
 
-**Om du har en iPhone SE:** Tryck på Dela-knappen i din webbläsare och välj "Lägg till på hemskärmen" och fortsätt sedan från den nya ikonen.
+**Upplevelsen är på webben!**
+**iPhone:** använd webbläsaren Safari.
+**Android:** använd webbläsaren Chrome eller Firefox.
+**Wifi: Är inte stabilt här.** Stäng därför av telefonen wifi.
 
-**Plats:** Turen startar i den lilla parken nära Forsebron, vid korsningen Götaforsliden – Norra Forsåkersgatan i Mölndal. Den går över Forsebron till Gamla torget och tillbaka, en sträcka på ca 500 m. Den interaktiva upplevelsen är webbaserad och gjord för att upplevas på den verkliga platsen - Kvarnbyn.
-[Visa platsen på en karta.](https://goo.gl/maps/yJWp2qkVVk12)
+**Om du har en iPhone SE:** Tryck på Dela-knappen i din webbläsare och välj "Lägg till på hemskärmen". Fortsätt sedan från den nya ikonen.
 
-**Wifi:** Kommer att finnas i framtiden. Tills dess: Använd ditt eget abonnemang och stäng av wifi på din telefon (för att inte råka komma in på Mölndals Stads wifi som i dagsläget är så svagt att turen stannar).
-
-**Förbrukning:** Ca 170 MB datatrafik, ungefär 15% av batteriets laddning, och knappt 0,5 dl vatten.
+**Förbrukning:** Ca 170 MB datatrafik, 15% av batteriets laddning, 0.5 dl vatten.
+{{< /whiteblock >}}

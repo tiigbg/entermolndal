@@ -190,3 +190,7 @@ outputs:
 # Optional, disable RSS feed
 disableKinds:
   - RSS
+
+blackfriday:
+  extensions:
+    - hardLineBreak
