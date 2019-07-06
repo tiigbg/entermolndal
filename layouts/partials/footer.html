@@ -12,12 +12,14 @@ References config file variables:
 			  {{ else }}{{ "Add config: Params.footer" }}{{end}}
 		   </p>
 		<hr>
-		<p class="has-text-grey is-size-7">
-		{{ with .Site.Params.subfooter }} {{ . | safeHTML }}<br>
-			  {{ else }}{{ "Add config: Params.subfooter" }}{{end}} 
-		{{ with .Site.Copyright }} {{ . | safeHTML }}<br>
-			  {{ else }}{{ "Add config: Copyright" }}{{end}} 
-		</p>
+		<div class="columns">
+			<a href="http://museum.molndal.se"><img src="/img/museum_logo.png"
+				alt="Museum Logo"/></a>
+			<p class="has-text-grey is-size-7">
+			{{ with .Site.Params.subfooter }} {{ . | safeHTML }}<br>
+				{{ else }}{{ "Add config: Params.subfooter" }}{{end}} 
+			</p>
+		</div>
 	</div>
   </div>
 </footer>

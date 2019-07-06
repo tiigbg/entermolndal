@@ -1,0 +1,175 @@
+/*! hugo-smorg theme | github.com/solutionroute/hugo-smorg */
+// See README.md for build instructions.
+
+// Variable definition and import order is important. 
+// 1. Import any Bulmaswatch variables first.
+// 2. Override Bulmaswatch variables as required.
+// 3. Import Bulma itself
+// 4. Import swatch overrides
+// 5. Finish off with any theme specific customizations.
+
+// 1 
+@import "bulmaswatch/cyborg/variables";
+// 2 
+$body-size:16px; 
+$link: hsl(217, 71%,  53%);
+$text-color: #626160;
+$gold-color: #ffcc00;
+$dark-gold-color: #bb8800;
+$family-sans-serif: "Open Sans", system-ui, sans-serif;
+$family-primary: $family-sans-serif;
+$family-monospace: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+// 3
+@import "bulma/bulma";
+// 4
+@import "bulmaswatch/cyborg/overrides";
+// 5
+
+// Providing syntax highlighting theme:
+@import 'chroma-sass-themes/scss/taapaca';
+// @import 'chroma-sass-themes/scss/vimspectrgrey-dark';
+// @import 'chroma-sass-themes/scss/vimspectr210-light';
+// @import 'chroma-sass-themes/scss/github';
+// Defines a future-proof "system-ui" font using local system font face declarations
+@import 'system-font-css/system-font';
+
+// Optional!
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i);
+@import url(https://use.typekit.net/nqd3uyv.css);
+
+// make footer background on short pages seem infinite
+html {
+	background-color: $white-ter !important;
+}
+
+
+.logo {
+	font-family: "futura-pt, sans-serif"
+
+}
+
+body > section {
+	//background-color: $white !important;
+	&.section.hero {
+		padding: 0px !important;
+	}
+}
+
+a {
+    color: $text-color;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: $dark-gold-color;
+    text-decoration: underline;
+}
+
+img {
+    border: 5px solid white;
+}
+
+.hero-body {
+  background: white;
+  color: $text-color;
+
+  strong {
+      color: $text-color !important;
+  }
+
+  .title {
+      color: $text-color;
+  }
+
+  .subtitle {
+      color: $text-color;
+  }
+}
+
+h1 {
+    text-align: center !important;
+}
+h2 {
+    text-align: center !important;
+}
+h3 {
+    text-align: center !important;
+}
+h4 {
+    text-align: left;
+    a {
+        color: $dark-gold-color !important;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: $gold-color !important;
+        text-decoration: none !important;
+    }
+}
+
+.is-6 h4 {
+        text-align: center !important;
+}
+
+h5 {
+    color: $text-color !important;
+}
+
+.content {
+    color: $text-color !important;
+
+    h3 {
+        color: $text-color !important;
+        text-align: center !important;
+    }
+    h4 {
+        color: $text-color !important;
+    }
+
+    strong {
+        color: $text-color !important;
+    }
+}
+
+footer {
+    background-color: #5E5B57 !important;
+    .has-text-centered {
+        color: #FEFDFE !important;
+    }
+    .has-text-grey {
+        color: #FEFDFE !important;
+    }
+
+    img {
+        width: 250px;
+        border: none;
+        padding-right: 50px;
+    }
+
+    .columns{
+        display:flex;
+        align-items:center;
+        flex-direction: row;
+
+        justify-content: center;
+    }
+
+    a {
+        color: #FEFDFE !important;
+    }
+
+    a:hover {
+        color: $dark-gold-color !important;
+    }
+
+}
+
+.navbar {
+    background-color: #5E5B57 !important;
+}
+
+
+.section:not(.hero) {
+	background-image: url("/img/bg_water.jpg");
+}

@@ -193,4 +193,3 @@ disableKinds:
 
 blackfriday:
   extensions:
-    - hardLineBreak

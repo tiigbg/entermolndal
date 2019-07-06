@@ -6,32 +6,54 @@ draft: false
 layout: projectpage
 url: "/kvarnbyninfo/"
 ---
-[![Promotionbild ENTER](/img/enter-promo.jpg)](https://entermolndal.se/kvarnbyn)
+[![Promotionbild ENTER](/img/enterkvarnbyn_m.jpg)](https://entermolndal.se/kvarnbyn)
 {{< whiteblock >}}
-<!-- ### ENTER Mölndal är en interaktiv upplevelse i din mobiltelefon -->
 
-#### 1. Ta dig till startplatsen i Kvarnbyn, Mölndal: bänkarna vid lyktstolpen mitt emot Kråkans Krog<br />[Visa på karta](https://goo.gl/maps/yJWp2qkVVk12)
-#### 2. Läs tips & info nedan
-#### 3. Ta på dig hörlurar, tryck på länken nedan och följ instruktionerna
-#### [ENTER Mölndal - Kvarnbyn ➔](https://entermolndal.se/kvarnbyn)
+#### **Du behöver**
+* En smartphone 
+* Hörlurar
+* **Om du har Android**: Upplevelsen streamas via webbläsaren Chrome eller Firefox. Stäng av wifi.
+* **Om du har iPhone:** Ladda ner appen ”ENTER Mölndal – Kvarnbyn”. Du kan behöva wifi för att ladda ner den.
+
+[![Ladda ner på App Store](/img/appstore_eng.png)](https://itunes.apple.com/us/app/enter-mölndal-kvarnbyn/id1460228048)
+
+#### **Starta upplevelsen** 
+* **Gå till startplatsen:** Kvarnbyn, Mölndal. Korsningen Götaforsliden – Norra Forsåkersgatan. [Visa på karta.](https://goo.gl/maps/yJWp2qkVVk12)
+* Ta på dig hörlurarna
+* **Om du har iPhone:** Starta appen
+* **Om du har Android:** tryck på länken nedan
+
+[![Starta i webbläsaren](/img/starta_kvarnbyn.png)](https://entermolndal.se/kvarnbyn/) 
 
 ---
-#### **Tips och info innan du startar**
-**Du behöver vara på plats!** 
-Turen startar i den lilla parken vid korsningen Götaforsliden – Norra Forsåkersgatan i Mölndal. Den går till Gamla torget och tillbaka, en sträcka på ca 500 m. [Visa platsen på en karta.](https://goo.gl/maps/yJWp2qkVVk12)
+#### **Tips och info innan du startar** 
+**Du behöver vara på plats!** Turen startar i den lilla parken vid korsningen Götaforsliden – Norra Forsåkersgatan i Mölndal. [Visa platsen på en karta.](https://goo.gl/maps/yJWp2qkVVk12)
 
-**Språk:** Svenska, Engelska.
+**Tillgänglighet:** Turen går till Gamla torget och tillbaka, på trottoar i stadstrafik. 
 
-**Tidsåtgång:** Ca 40 minuter. Du väljer själv hur länge du vill delta.
+**Längd:** Ca 500 meter
 
-**Du behöver:**  1) En smartphone 2) med tillgång till Internet 3) hörlurar (museet lånar ut hörlurar under öppettiderna) 
+**Tidsåtgång:** Ca 40 minuter
 
-**Upplevelsen är på webben!**
-**iPhone:** använd webbläsaren Safari.
-**Android:** använd webbläsaren Chrome eller Firefox.
-**Wifi: Är inte stabilt här.** Stäng därför av telefonen wifi.
+**För dig som är:** 14 år eller äldre
 
-**Om du har en iPhone SE:** Tryck på Dela-knappen i din webbläsare och välj "Lägg till på hemskärmen". Fortsätt sedan från den nya ikonen.
+**Språk:** Svenska eller Engelska
 
-**Förbrukning:** Ca 170 MB datatrafik, 15% av batteriets laddning, 0.5 dl vatten.
+**Inställningar på telefonen för streamad webversion:**
+
+* Stäng av telefonens wifi, för att inte störas av närliggande nätverk.
+* **Android:** Använd webbläsaren Chrome eller Firefox. 
+* **iPhone:** Vi rekommenderar appen. Om du vill streama via webbläsaren, använd Safari. Gå till Inställningar, sedan Safari. Slå på "Tillgång till rörelse och riktning".
+* För att få helskärm i webbläsaren för iPhone X, XS eller SE: Tryck på Dela-knappen i din webbläsare och välj "Lägg till på hemskärmen". Fortsätt sedan från den nya ikonen.
+
+**Förbrukning:** Ca 170 MB datatrafik vid streaming. Appen är ca 240 MB, när den är installerad krävs ingen internetanslutning. 15% av batteriets laddning, 0.5 dl vatten.
+
+All data stannar i din egen telefon och används endast under turen.
+
+#### **Om Kvarnbyn**
+Kvarnbyn och forsen med sina nästan 48 meter höga vattenfall är ursprunget till orten Mölndal. Här har vattnets kraft gett människor möjlighet att leva, överleva, arbeta och skapa i mer än tusen år.
+
+Redan på medeltiden utnyttjade mjölnare vattenkraften till att driva kvarnar och på 1600-talet fanns här ett trettiotal mjölkvarnar, sågkvarnar och pappersbruk. I slutet av 1800-talet hade Mölndals Kvarnby utvecklats till ett av Sveriges viktigare industriområden.
+
+Ta med din mobil på en promenad nedanför den mäktiga forsen. Öppna luckor till historien och upplev platsen genom röster och berättelser från olika tider.
 {{< /whiteblock >}}
